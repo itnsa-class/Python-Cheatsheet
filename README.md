@@ -32,19 +32,19 @@ Python 语法备忘清单
 
 `sys` 模块提供了一些系统相关的变量和函数。
 
-**[sys.version](sys.md#sys.version)**
+[sys.version](sys.md#sys.version)
 
 一个包含 `Python` 解释器版本号加编译版本号以及所用编译器等额外信息的字符串。
 
-**[sys.version_info](sys.md#sys.version_info)**
+[sys.version_info](sys.md#sys.version_info)
 
 一个包含版本号五部分的元组: `major`, `minor`, `micro`, `releaselevel` 和 `serial`。 
 
-**[sys.exit([arg])](sys.md#sys.exit([arg]))**
+[sys.exit([arg])](sys.md#sys.exit([arg]))
 
 从 `Python` 中退出。
 
-**[sys.argv](sys.md#sys.argv)**
+[sys.argv](sys.md#sys.argv)
 
 一个列表，其中包含了被传递给 `Python` 脚本的命令行参数。
 
