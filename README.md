@@ -36,7 +36,7 @@ Python 语法备忘清单
 
 一个包含 `Python` 解释器版本号加编译版本号以及所用编译器等额外信息的字符串。
 
-[sys.version_info](sys.md#sysversioninfo)
+[sys.version_info](sys.md#sysversion_info)
 
 一个包含版本号五部分的元组: `major`, `minor`, `micro`, `releaselevel` 和 `serial`。 
 
