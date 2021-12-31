@@ -66,7 +66,7 @@ Python 语法备忘清单
 
 ## Python_coding_tips
 
-[18 个坏习惯，你一定要抛弃](bad-habits.md)
+- [18 个坏习惯，你一定要抛弃](bad-habits.md)
 
 
 ## 参考资料
