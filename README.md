@@ -18,7 +18,7 @@ Python 语法备忘清单
 
 4. Python标准库
 
-    [sys](#sys) [getopt](#getopt) [argparse](#argparse) 
+    [sys](#sys) [getopt](#getopt) [argparse](#argparse) [hashlib](#hashlib)
 
 
 5. 第三方模块
@@ -55,6 +55,10 @@ Python 语法备忘清单
 ### [argparse](argparse.md)
 
 `argparse` 模块是一个命令行选项、参数和子命令解析器。
+
+### [hashlib](hashlib.md)
+
+`hashlib` 模块针对许多不同的安全哈希和消息摘要算法实现了一个通用接口。包括SHA1, SHA224, SHA256, SHA384, SHA512 和 MD5。
 
 
 
