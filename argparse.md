@@ -16,6 +16,7 @@ def get_args():
     parser = argparse.ArgumentParser(
         description="Markdown file coverted to html and pdf file with python-markdown2 and wkhtmltopdf", 
         formatter_class=argparse.RawTextHelpFormatter)
+        # formatter_class=argparse.RawTextHelpFormatter supports newline output using \n .  
     parser.add_argument('-v', '--version', action='version',
                         version='%(prog)s {}'.format(str(Version)))
     parser.add_argument('-t', '--template', required=False, nargs='?', const='DEFAULT', default='DEFAULT',
