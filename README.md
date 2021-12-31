@@ -24,6 +24,9 @@ Python 语法备忘清单
 5. 第三方模块
 
 
+6. [Python coding tips](#Python_coding_tips)
+
+
 ## 内容
 
 ### List
@@ -60,6 +63,10 @@ Python 语法备忘清单
 
 `hashlib` 模块针对许多不同的安全哈希和消息摘要算法实现了一个通用接口。包括SHA1, SHA224, SHA256, SHA384, SHA512 和 MD5。
 
+
+### Python coding tips
+
+[18 个坏习惯，你一定要抛弃]()
 
 
 ## 参考资料
